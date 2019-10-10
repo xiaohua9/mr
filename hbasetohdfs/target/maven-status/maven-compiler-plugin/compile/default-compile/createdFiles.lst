@@ -1,0 +1,3 @@
+HbaseToHdfs.class
+HbaseToHDFSReducer.class
+HbaseToHDFSMapper.class
